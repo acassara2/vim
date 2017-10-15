@@ -1,0 +1,10 @@
+syntax enable
+colorscheme base16-oceanicnext 
+set number		
+set shiftwidth=2
+set tabstop=2
+set softtabstop=2
+set expandtab
+set autoindent
+set showmatch
+set hlsearch
